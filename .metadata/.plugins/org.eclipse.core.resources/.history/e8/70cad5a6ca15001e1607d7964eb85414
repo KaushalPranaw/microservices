@@ -1,0 +1,5 @@
+package com.test.spring.batch.config;
+
+public class SpringBatchConfig {
+
+}
